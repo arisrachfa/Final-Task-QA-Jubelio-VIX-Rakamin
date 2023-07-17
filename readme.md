@@ -8,3 +8,8 @@ Pytest dengan perintah : pip install pytest
 
 Kemudian download web driver dari browser yang akan digunakan untuk implementasi code yang dibuat, dipastikan
 bahwa versi dari web driver yang di download sama dengan versi browser yang kita gunakan.
+
+Result test :
+
+https://github.com/arisrachfa/Final-Task-QA-Jubelio-VIX-Rakamin/assets/72639862/4b382f51-366b-477d-b426-28e364a36ff7
+
